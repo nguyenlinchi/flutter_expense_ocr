@@ -1,0 +1,5 @@
+# Bỏ qua thư viện node_modules và file môi trường
+node_modules/
+.env
+build/
+.dart_tool/

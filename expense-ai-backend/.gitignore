@@ -1,0 +1,4 @@
+# Bỏ qua file môi trường chứa API Key
+.env
+**/env/
+**/.env
